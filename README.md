@@ -13,7 +13,6 @@ For more information, please read the official [documentation](http://kivmob.com
 * You can install KivMob with the following command.
 ```
 pip3 install https://github.com/chimenmagoodness/Kivmob-bugs-fixed-/archive/refs/heads/main.zip
-
 ```
 Note: if you have the previous kivmob package installed, then you have to Uninstall it first before carring out the above command
 
