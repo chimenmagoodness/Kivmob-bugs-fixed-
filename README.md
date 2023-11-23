@@ -15,7 +15,7 @@ For more information, please read the official [documentation](http://kivmob.com
 pip3 install https://github.com/chimenmagoodness/Kivmob-bugs-fixed-/archive/refs/heads/main.zip
 
 ```
-Note: if you have the previous kivmob install then Uninstall it before carring out the above command
+Note: if you have the previous kivmob package installed, then you have to Uninstall it first before carring out the above command
 
 ```
 $ mkdir MykivmobAppFolder
